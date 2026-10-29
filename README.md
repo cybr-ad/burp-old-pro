@@ -22,7 +22,7 @@ Open your terminal and run:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-username/burpsuite-pro.git
+git clone https://github.com/cybr-ad/burp-old-pro.git
 cd burpsuite-pro
 
 # 2. Make scripts executable
