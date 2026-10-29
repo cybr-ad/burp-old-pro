@@ -23,7 +23,7 @@ Open your terminal and run:
 ```bash
 # 1. Clone repository
 git clone https://github.com/cybr-ad/burp-old-pro.git
-cd burpsuite-pro
+cd burp-old-pro
 
 # 2. Make scripts executable
 chmod +x *.sh
