@@ -24,9 +24,11 @@ Open your terminal and run:
 # 1. Clone repository
 git clone https://github.com/cybr-ad/burp-old-pro.git
 cd burp-old-pro
-
 # 2. Make scripts executable
 chmod +x *.sh
+# 3. Run
+sudo ./burp-old-pro-setup.sh
+
 ```
 
 ### Choose Your Version:
